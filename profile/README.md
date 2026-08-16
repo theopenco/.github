@@ -33,12 +33,12 @@ flowchart LR
 
 ## Products
 
-|                                                       |                                                                                                            |
-| :---------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| **[LLM Gateway](https://llmgateway.io)**              | One API key, every model. Routing, fallback, caching, spend analytics. Cloud or self-hosted.                 |
-| **[DevPass](https://devpass.llmgateway.io)**          | One flat coding subscription. Every model, in every agent you already use.                                   |
-| **[Lounge](https://lounge.llmgateway.io)**            | The members' lounge for AI — chat, image, video, audio and voice in one membership.                          |
-| **[Clanker Support](https://clankersupport.com)**     | Open-source AI support widget that answers from your docs and escalates with full context.                   |
+| Product                                           | What it is                                                                                   |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------- |
+| **[LLM Gateway](https://llmgateway.io)**          | One API key, every model. Routing, fallback, caching, spend analytics. Cloud or self-hosted.  |
+| **[DevPass](https://devpass.llmgateway.io)**      | One flat coding subscription. Every model, in every agent you already use.                    |
+| **[Lounge](https://lounge.llmgateway.io)**        | The members' lounge for AI — chat, image, video, audio and voice in one membership.           |
+| **[Clanker Support](https://clankersupport.com)** | Open-source AI support widget that answers from your docs and escalates with full context.    |
 
 <br />
 
